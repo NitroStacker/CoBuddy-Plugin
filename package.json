@@ -1,7 +1,7 @@
 {
   "name": "com.opengate.cobuddy",
   "displayName": "CoBuddy",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "unity": "2022.3",
   "description": "CoBuddy by OpenGate - AI Unity assistant. Integrates with the CoBuddy desktop app for project indexing, code patches, and editor actions.",
   "author": {
