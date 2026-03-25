@@ -1,8 +1,7 @@
-# CoBuddy Unity Plugin
+# CoBuddy Unity Package
 
-Hosts the CoBuddy Unity package for the CoBuddy desktop app. Setup CoBuddy and Update Plugin fetch from this repo.
+CoBuddy by OpenGate – AI assistant for Unity.
 
-- **CoBuddy-plugin.zip** - Unity package (Packages/CoBuddy)
-- **version.json** - Current plugin version for update checks
+**Download and docs:** [cobuddydev.com](https://cobuddydev.com)
 
-When you update the package in the main [CoBuddy](https://github.com/NitroStacker/CoBuddy) repo, zip `Packages/CoBuddy` as `CoBuddy-plugin.zip`, update `version.json`, and push here.
+This package connects Unity to the CoBuddy desktop app. Install the app first, then add this package via Package Manager.
